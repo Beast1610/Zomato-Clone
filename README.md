@@ -1,4 +1,5 @@
-Screenshots
+# Screenshots
+
 ![image](https://github.com/Beast1610/Zomato-Clone/assets/111764205/2d3e77d6-41b3-4492-a960-da2469efe7c6)
 
 # Getting Started with Create React App
