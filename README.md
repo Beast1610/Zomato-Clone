@@ -39,6 +39,10 @@ Back End i.e the server side has the API planning for the frontend along with th
 
 ![image](https://github.com/Beast1610/Zomato-Clone/assets/111764205/2d3e77d6-41b3-4492-a960-da2469efe7c6)
 ![image](https://github.com/Beast1610/Zomato-Clone/assets/111764205/3604af09-3f78-4a68-936f-447d2358526a)
+![image](https://github.com/Beast1610/Zomato-Clone/assets/111764205/342b3203-0b95-46f6-9f22-47ef55a4ea9b)
+![image](https://github.com/Beast1610/Zomato-Clone/assets/111764205/419a0a4b-6d62-45e1-92b1-43958b0579a7)
+
+
 
 
 
