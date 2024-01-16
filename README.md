@@ -1,9 +1,3 @@
-# Screenshots
-
-![image](https://github.com/Beast1610/Zomato-Clone/assets/111764205/2d3e77d6-41b3-4492-a960-da2469efe7c6)
-![image](https://github.com/Beast1610/Zomato-Clone/assets/111764205/3604af09-3f78-4a68-936f-447d2358526a)
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -40,6 +34,12 @@ Back End i.e the server side has the API planning for the frontend along with th
 - Image (Storing all the images related to the project)
 - Review (Storing all the list of reviews)
 - User (User related details, username, email, password)
+
+# Screenshots
+
+![image](https://github.com/Beast1610/Zomato-Clone/assets/111764205/2d3e77d6-41b3-4492-a960-da2469efe7c6)
+![image](https://github.com/Beast1610/Zomato-Clone/assets/111764205/3604af09-3f78-4a68-936f-447d2358526a)
+
 
 
 
